@@ -1,3 +1,4 @@
+namespace SalesStatistics.Models;
 public class Purchase
 {
     public int PurchaseId { get; set; }
